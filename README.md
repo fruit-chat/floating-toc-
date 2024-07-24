@@ -44,4 +44,4 @@ The Floating Table of Contents (TOC) plugin for WordPress is a powerful tool des
 
 17. **AMP Support**: Ensure your TOC works seamlessly with AMP (Accelerated Mobile Pages) by using the WordPress AMP plugin.
 
-The Floating Table of Contents plugin for WordPress offers a comprehensive set of features that significantly improve content navigation and user experience. Its versatility, customization options, and compatibility with popular plugins make it an essential tool for any WordPress website.
+The Floating Table of Contents plugin for WordPress offers a comprehensive set of features that significantly improve content navigation and user experience. Its versatility, customization options, and compatibility with popular plugins make it an essential tool for any WordPress website. For more information, visit <a href="https://fruit-chat.com">here</a>.
